@@ -7,4 +7,4 @@ assim estar apto e familiarizado com estrutura de um negocio e analise de dados 
 tecnologia. 
 
 🔭 Em busca de Estágio...
-📫 Como chegar: https://instagram.com/g_belisario.r?igshid=MmIzYWVlNDQ5Yg==
+📫 Como chegar: https://www.linkedin.com/in/00gabrielbelisario00
