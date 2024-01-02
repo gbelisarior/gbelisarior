@@ -12,6 +12,7 @@ Atualmente, estou focado em expandir meu conhecimento em Desenvolvimento de soft
 - Business Intelligence e análise de dados
 - Sistemas integrados e configurações de variáveis de ambiente em sistema bancário
 - Mitigação de problemas e padronização de processos atuando como Help Desk
+- Veja também minhas habilidades na Digital Inovation One [Dio](https://www.dio.me/users/gabriel_hb_rocha_97)
 
 ## GitHub
 
@@ -21,7 +22,6 @@ Sinta-se à vontade para explorar e contribuir!
 
 Conecte-se comigo:
 - [LinkedIn](www.linkedin.com/in/gabrielbelisariorocha)
-
 
 Vamos juntos nessa jornada de aprendizado e desenvolvimento!
 
