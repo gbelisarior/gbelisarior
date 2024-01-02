@@ -21,7 +21,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui, compartilho periodicamente projetos e ati
 Sinta-se à vontade para explorar e contribuir!
 
 Conecte-se comigo:
-- [LinkedIn](www.linkedin.com/in/gabrielbelisariorocha)
+- Clique e será redirecionado para meu perfil : (www.linkedin.com/in/gabrielbelisariorocha)
 
 Vamos juntos nessa jornada de aprendizado e desenvolvimento!
 
