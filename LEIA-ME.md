@@ -9,12 +9,13 @@ Atualmente, estou focado em expandir meu conhecimento em Desenvolvimento de soft
 ## Experiência e Interesses
 
 - Desenvolvimento em Java, Python, C++ e MySQL e boas praticas de código
+- Configurações de arquivos e pacotes de aplicações através de comandos via terminal de base linux como o MacOS e Windows
 - Business Intelligence e análise de dados
 - Sistemas integrados e configurações de variáveis de ambiente em sistema bancário
 - Mitigação de problemas e padronização de processos atuando como Help Desk
-- Veja também minhas habilidades neste hiperlink do [meu perfil na Digital Innovation One - Dio](https://www.dio.me/users/gabriel_hb_rocha_97)
+- Veja também minhas habilidades relacionadas a tecnologia neste hiperlink do [meu perfil na Digital Innovation One - Dio](https://www.dio.me/users/gabriel_hb_rocha_97)
 
-## GitHub
+## Sobre meu GitHub
 
 Seja bem-vindo(a) ao meu GitHub! Aqui, compartilho periodicamente projetos e atividades relacionadas à minha formação e habilidades de programação. Você encontrará códigos comentados das linguagens que domino e das que estou aprendendo ao longo do tempo.
 
