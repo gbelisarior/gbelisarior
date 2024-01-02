@@ -1,6 +1,6 @@
 # 👋 Olá seja mais BEM VINDO(A) !
 
-Sou Gabriel Belisário, estudante de Sistemas de Informação e apaixonado por tecnologia, especialmente na área de desenvolvimento Backend. Estou constantemente aprimorando minhas habilidades em linguagens como Java, Python, C++ e MySQL sem contar a experiencia com interfaces e configurações de IDE para um funcional hambiente de desenvolvimento ao ajudar terceiros hoje atuando como Help Desk.
+Sou Gabriel Belisário, estudante de Sistemas de Informação e apaixonado por tecnologia, especialmente na área de desenvolvimento Backend. Estou constantemente aprimorando minhas habilidades em linguagens como Java, Python, C++ e MySQL sem contar a experiencia com interfaces e configurações de IDE para um funcional hambiente de desenvolvimento ao ajudar terceiros hoje atuando em setor Help Desk.
 
 ## Sobre Mim
 
